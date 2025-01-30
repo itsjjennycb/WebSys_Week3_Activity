@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html></html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Kenny Cabubas</title>
+<style>
+    body{
+        font-family: serif;
+        margin: 200px;
+        margin-top: 100px;
+        background-color: green;
+    }
+    h1 {
+        font-size: 36px;
+        font-weight: bold;
+    }
+    h2{
+        font-size: 24px;
+        font-weight: bold;
+    }
+    p{
+        font-size: 18px;
+        line-height: 1.6;
+        max-width: 800px;
+    }
+    .container {
+        display: flex;
+        align-items: flex-start;
+        justify-content: space-between;
+    }
+    .content {
+        flex: 1;
+    }
+    .profile-image {
+        width: 100px;
+        height: auto;
+        border-radius: 10px;
+        margin: 200px;
+        margin-top: 10px;
+    }
+</style>
+</head>
+    <div class="container">
+    <div class="content">
+      <h1>KENNY CABUBAS</h1>
+      <p>Information Technology Student @Global Reciprocal Colleges</p>
+      <p>Bachelor of Science in Information Technology</p>
+  
+  <h2>ABOUT ME</h2>
+  <p>21 years old living in Caloocan City</p>
+    </div>
+
+  <img class =  "profile-image"  src="https://i.ibb.co/Ng9jY9vQ/R.jpg" alt="Profile Picture">
+  
+ 
+
+</body>
+</html>
